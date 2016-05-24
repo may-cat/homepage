@@ -1,0 +1,42 @@
+// Little larger screen
+@media only screen and (min-width: 480px) {
+
+.header .logo {
+    background: url("../images/kvadratiki.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    float: left;
+    height: 127px;
+    width: 252px;
+}
+.header .logo img {
+	 width: 55%;
+}
+
+}
+
+// Pads and larger phones
+@media only screen and (min-width: 600px) {
+
+}
+
+// Larger pads
+@media only screen and (min-width: 768px) {
+
+}
+
+// Horizontal pads and laptops
+@media only screen and (min-width: 992px) {
+
+}
+
+// Really large screens
+@media only screen and (min-width: 1382px) {
+
+}
+
+// 2X size (iPhone 4 etc)
+@media only screen and 
+        (-webkit-min-device-pixel-ratio: 1.5), only screen and 
+        (-o-min-device-pixel-ratio: 3/2), only screen and 
+        (min-device-pixel-ratio: 1.5) {
+
+}
